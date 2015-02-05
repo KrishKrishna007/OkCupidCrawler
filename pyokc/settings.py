@@ -1,0 +1,3 @@
+USERNAME = ''
+PASSWORD = ''
+DELAY = 3
